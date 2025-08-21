@@ -23,13 +23,13 @@ Cross-Snap is a CLI tool that snapshots your site in Chrome, Firefox, and WebKit
 npx cross-snap https://example.com
 ```
 
-<img width="629" height="167" alt="image" src="./assets/images/Screenshot 2025-08-21 144432.png" />
+<img width="629" height="167" alt="image" src="./assets/images/tree.png" />
 
 ---
 
 # 📊 Example Report
 
-Screenshots would go here in your repo once you generate them.
+<img width="auto" height="auto" alt="image" src="./assets/images/report_example.png" />
 
 ---
 
